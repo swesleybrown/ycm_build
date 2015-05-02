@@ -1,0 +1,10 @@
+/Users/Wes/ycm_build/ycm/tests/CMakeFiles/ycm_core_tests.dir
+/Users/Wes/ycm_build/ycm/CMakeFiles/ycm_core.dir
+/Users/Wes/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest.dir
+/Users/Wes/ycm_build/ycm/CMakeFiles/ycm_support_libs.dir
+/Users/Wes/ycm_build/ycm/tests/gmock/CMakeFiles/gmock.dir
+/Users/Wes/ycm_build/BoostParts/CMakeFiles/BoostParts.dir
+/Users/Wes/ycm_build/ycm/tests/gmock/gtest/CMakeFiles/gtest_main.dir
+/Users/Wes/ycm_build/ycm/CMakeFiles/ycm_client_support.dir
+/Users/Wes/ycm_build/ycm/tests/gmock/CMakeFiles/gmock_main.dir
+/Users/Wes/ycm_build/ycm/tests/CMakeFiles/copy_testdata.dir
